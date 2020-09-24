@@ -1,0 +1,31 @@
+{
+    "name": "furry-bot",
+    "version": "0.0.1",
+    "description": "A really stupid bot that just annoys furries on Discord.",
+    "main": "bot.js",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "repository": {
+        "type": "git",
+        "directory": "https://www.github.com/federicofusco/Furry-Bot"
+    },
+    "keywords": [
+        "bot",
+        "discord",
+        "furry"
+    ],
+    "author": "Federico Fusco <federicofusco.dev@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "express": "^4.17.1",
+        "install": "^0.13.0"
+    },
+    "engines": {
+        "node": "12.x"
+    },
+    "bugs": {
+        "url": "https://www.github.com/federicofusco/Furry-Bot/blob/master/SECURITY.md"
+    }
+}
